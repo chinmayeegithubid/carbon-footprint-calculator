@@ -38,13 +38,18 @@ A **Streamlit-based web application** that calculates your annual carbon footpri
    ```bash
    git clone https://github.com/chinmayeegithubid/carbon-footprint-calculator.git
    cd carbon-footprint-calculator
-2.Create & Activate Virtual Environment
+2. **Create & Activate Virtual Environment**
+```bash
 python -m venv venv
-venv\Scripts\activate    # Windows
-3.Install Dependencies
+venv\Scripts\activate  # For Windows
+source venv/bin/activate  # For Mac/Linux
+
+3.Install Dependencies: 
 pip install -r requirements.txt
-4.Set Google API Key
-Create a .env file with:
+
+4.Set Google API Key: 
+Create a .env file in the root folder and add:
 GOOGLE_API_KEY=your_actual_key_here
+
 5.Run the App
 streamlit run app.py
