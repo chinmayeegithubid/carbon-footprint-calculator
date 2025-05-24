@@ -1,0 +1,19 @@
+# Ignore virtual environment and system files
+venv/
+Lib/
+Scripts/
+Include/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.vscode/
+pyvenv.cfg
+
+# Sensitive and environment-specific files
+.env
+
+# Model and data files
+*.sav
+*.csv
+temp.wav
