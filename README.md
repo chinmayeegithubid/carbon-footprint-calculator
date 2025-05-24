@@ -53,3 +53,10 @@ GOOGLE_API_KEY=your_actual_key_here
 
 5.Run the App
 streamlit run app.py
+## 🌟 Stay in Touch
+Thank you for exploring this project! 🌱  
+This AI-powered Carbon Footprint Calculator is part of my personal initiative to use technology for a greener future.  
+I’d love to hear your feedback or collaborate on ideas to make this tool even better.
+
+📬 **Connect with me on LinkedIn:** [Chinmayee Nayak](https://www.linkedin.com/in/chinmayee-n-134388187/)  
+📢 If you found this helpful, feel free to share it or support the project!
