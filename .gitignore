@@ -17,3 +17,9 @@ pyvenv.cfg
 *.sav
 *.csv
 temp.wav
+# Ignore local model training files
+retrain_model.py
+models/retrain.model
+models/retrain_scaler.pkl
+models/scaler.pkl
+
